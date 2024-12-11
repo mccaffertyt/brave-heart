@@ -19,7 +19,7 @@
       "path": "/packs/ana.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "system": "Simple World-Building"
+      "system": "worldbuilding"
     }
   ],
   "url": "https://github.com/mccaffertyt/ana",
