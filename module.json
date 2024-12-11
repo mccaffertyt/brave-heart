@@ -1,7 +1,7 @@
 {
-  "id": "cult-of-the-marsh-dragon-adventure-pf2e",
-  "title": "Cult of the Marsh Dragon Adventure PF2e",
-  "description": "Cult of the Marsh Dragon Adventure for PF2e",
+  "id": "ana",
+  "title": "AnA",
+  "description": "AnA",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "cult-of-the-marsh-dragon-adventure-pf2e",
-      "path": "/packs/cult-of-the-marsh-dragon-adventure-pf2e.db",
+      "label": "ana",
+      "path": "/packs/ana.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "system": "pf2e"
+      "system": "Simple World-Building"
     }
   ],
-  "url": "https://github.com/mccaffertyt/cult-of-the-marsh-dragon-adventure-pf2e",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/cult-of-the-marsh-dragon-adventure-pf2e/main/module.json",
-  "download": "https://github.com/mccaffertyt/cult-of-the-marsh-dragon-adventure-pf2e/raw/main/cult-of-the-marsh-dragon-adventure-pf2e.zip",
+  "url": "https://github.com/mccaffertyt/ana",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/ana/main/module.json",
+  "download": "https://github.com/mccaffertyt/ana/raw/main/ana.zip",
   "manifestPlusVersion": "1.2.0"
 }
