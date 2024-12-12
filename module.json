@@ -1,7 +1,7 @@
 {
-  "id": "ana",
-  "title": "AnA",
-  "description": "AnA",
+  "id": "brave-heart",
+  "title": "brave-heart",
+  "description": "brave-heart",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "ana",
-      "path": "/packs/ana.db",
+      "label": "brave-heart",
+      "path": "/packs/brave-heart.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "worldbuilding"
     }
   ],
-  "url": "https://github.com/mccaffertyt/ana",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/ana/main/module.json",
-  "download": "https://github.com/mccaffertyt/ana/raw/main/ana.zip",
+  "url": "https://github.com/mccaffertyt/brave-heart",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/brave-heart/main/module.json",
+  "download": "https://github.com/mccaffertyt/brave-heart/raw/main/brave-heart.zip",
   "manifestPlusVersion": "1.2.0"
 }
